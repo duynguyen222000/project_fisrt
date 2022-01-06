@@ -1,0 +1,426 @@
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .new-products>h2
+    {
+        text-align: left!important;
+    }
+    .text-feature h2
+{
+    text-align: left!important;
+  
+   
+}
+.fresh-foodd
+{
+    padding:10px;
+    text-align: left!important;
+}
+.fresh-food
+{
+    padding:10px;
+    text-align: left!important;
+    border-right: 1px solid #bfbfbf;
+    
+}
+.sale-product>.sale-product-text>h2{
+    font-size: 18px;
+    color: #363f4d;
+    text-align: left!important;
+    font-weight: bold;
+    
+}
+      
+  }
+  
+
+
+body{
+    
+    font-family: arial;
+}
+.project
+{
+    margin:0 15px;
+}
+.collapse
+{
+    padding-left:250px;
+}
+.logo
+{
+    padding-top:10px;
+}
+.add-cart  
+{
+    padding-top:16px;
+    text-align: right;
+    
+}
+.add-cart a{
+    text-decoration: none;
+    color:#8a8b8d;
+}
+.collapse ul li{
+    padding-left: 20px;
+    
+}
+.header-top
+{
+    background: url("image/bg.png");
+    padding:160px 50px;
+}
+.text>.top-text
+{
+ font-size: 16px;
+ color:#f58c0c;
+}
+.text>.text-main
+{
+    color:#343b34;
+    font-size: 48px;
+    font-weight: bold;
+}
+.text>.text-bottom
+{
+    color:#7c8086;
+    font-size: 20px;
+    padding-top:20px;
+}
+.shop-now
+{
+    margin-top:40px;
+}
+.shop-now a
+{
+    background: #f58c0c;
+    color:white;
+    padding:10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.shop-now a:hover
+{
+    background: #5f5d5a;
+    color:white;
+    padding:10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+   
+}
+.header-bottom-left{
+    
+    padding:20px 20px 133px 20px;
+    text-align: center;
+    margin-top:20px;
+}
+.header-bottom-left
+{
+    background:url("image/bg-1.png")
+}
+.header-bottom-left-text
+{
+    font-size: 28px;
+  
+}
+.header-bottom-shop-now a{
+    color:#f58c0c;
+    text-decoration: none;
+}
+.header-bottom-shop-now a:hover{
+    color:#343b34;
+    text-decoration: none;
+}
+.header-bottom-right-text{
+    background: url("image/bg-2.png");
+    padding:23px;
+    margin-top:20px;
+}
+.header-bottom-right-text>.text-big
+{
+    font-size: 28px;
+}
+.header-bottom-right-text>.text-small
+{
+    font-size: 16px;
+    color:#7c8086;
+    padding: 20px 0px;
+}
+.content{
+    padding-top:40px;
+}
+.new-products>h2
+{
+    text-align: center;
+  padding-top:20px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#363f4d;
+}
+.list>ul>li
+{
+    list-style: none;
+    float: right;
+    padding-left: 20px;
+    padding-bottom:20px;
+}
+.list>ul>.list-all>a
+{
+    color:#f58c0c;
+}
+.list>ul>li>a
+{
+    text-decoration: none;
+    color:#bfbfbf;
+}
+.list>ul>li>a:hover
+{
+    text-decoration: none;
+    color:#f58c0c;
+}
+.product{
+    border-bottom:1px solid #bfbfbf;
+}
+.item
+{
+    text-align: center;
+    padding:20px;
+}
+.item>.picture-product
+{
+    padding:20px;
+    margin-bottom: 15px;
+}
+.item>.name-product>a{
+    text-decoration: none;
+    color:gray;
+}
+.item>.name-product>a:hover{
+    text-decoration: none;
+    color:#f58c0c;
+}
+.item>.money-product>h2{
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.fresh-food
+{
+    padding:10px;
+    text-align: center;
+    border-right: 1px solid #bfbfbf;
+    
+}
+.fresh-foodd
+{
+    padding:10px;
+    text-align: center;
+}
+.fresh h3{
+    font-size: 16px;
+    margin-top:6px;
+    margin-bottom: 1px;   
+}
+.fresh p{
+    color:#bfbfbf;
+    font-size: 14px;
+   
+}
+.chia-5-cot
+{
+    border:1px solid #bfbfbf;
+    padding:30px 15px 15px 15px;
+    margin-top:25px;
+}
+.feature-product
+{
+    padding-top:40px;
+    padding-bottom: 50px;
+   
+}
+.feature-element
+{
+    padding-top:35px;
+}
+.text-feature h2
+{
+    text-align: center;
+  
+    font-size: 18px;
+    font-weight: bold;
+    color:#363f4d;
+    border-bottom:1px solid #bfbfbf;
+    padding-bottom: 10px;
+}
+.item-sale
+{
+    background: #f7f7f7;
+    text-align: center;
+    padding:20px;
+}
+.sale-money
+{
+    color:#fd4444;
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: bold;
+    padding-top:20px;
+}
+.deal
+{
+    color:#363f4d;
+    font-size: 28px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.fruit-set
+{
+    padding-top:20px;
+}
+.fruit-set h2 a
+{
+    
+    font-size: 24px;
+    text-decoration: none;
+    color:#5f5d5a;
+}
+.fruit-set h2 a:hover
+{
+    font-size: 24px;
+    text-decoration: none;
+    color:#f58c0c;
+}
+.feature-bottom-left-text{
+    margin-bottom: 50px;
+}
+.feature-bottom-shop-now
+{
+    padding-top:10px;
+}
+.feature-bottom-shop-now a{
+    color:#f58c0c;
+    text-decoration: none;
+    
+}
+.feature-bottom-shop-now a:hover{
+    color:#343b34;
+    text-decoration: none;
+}
+.feature-bottom-left-text{
+    background: url("image/Rectangle.png");
+    padding:23px;
+    margin-top:20px;
+}
+.feature-bottom-left-text>.text-big
+{
+    font-size: 28px;
+}
+.feature-bottom-right-text{
+    background: url("image/Group.png");
+    padding:15px;
+   margin-top:13px;
+}
+.feature-bottom-right-text>.text-big
+{
+    font-size: 28px;
+}
+.feature-bottom-right-text>.text-small
+{
+    font-size: 16px;
+    color:#7c8086;
+    padding: 20px 0px;
+}
+
+.sale-product-element
+{
+   padding-top:40px;
+   padding-bottom: 40px;
+}
+.sale-product>.sale-product-text>h2{
+    font-size: 18px;
+    color: #363f4d;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom:10px;
+    border-bottom:1px solid #EDEDED;
+}
+
+.sale-product-name{
+    margin-left: -15px;
+    padding-bottom: 15px;
+}
+.sale-product-name>.icon-star
+{
+    font-size: 10px;
+}
+.sale-product-name>.sale-text>a
+{
+    font-size: 12px;
+    text-decoration: none;
+    color:#3b3d42;
+}
+.sale-product-name>.sale-text>a:hover
+{
+    text-decoration: none;
+    color:#FDBC32;
+}
+.sale-product-name>.sale-product-money
+{
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.logo-of-product
+{
+    border:1px solid #EDEDED;
+    text-align: center;
+    padding-top:30px;
+    
+}
+.logo-1
+{
+    padding-bottom:25px;
+}
+.logo-end
+{
+    padding-top:10px;
+}
+
+.bestseller-product{
+    padding-top:40px;
+    padding-bottom: 40px;
+}
+.top-footer
+{
+    background: #474F56;
+    padding:40px 10px 40px 10px;
+    
+}
+
+.footer-text h2
+{
+    font-size: 14px;
+    font-weight: 700;
+    color:white;
+    padding-bottom: 10px;
+}
+.footer-text h6{
+    font-size: 14px;
+    color:white
+}
+.footer-text a{
+    text-decoration: none;
+    color:rgb(214, 214, 214);
+    font-size: 14px;
+    
+}
+.footer-text a:hover{
+    text-decoration: none;
+    color:#F58C0C;
+}
+
+.footer-text ul li{
+    list-style: none;
+    padding-bottom: 10px;
+    
+}
